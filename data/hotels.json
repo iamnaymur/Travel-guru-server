@@ -1,0 +1,67 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "destination_id": 1,
+      "name": "Hotel Sea Pearl",
+      "rating": 4.5,
+      "price": 100,
+      "image_url": "https://example.com/hotel-sea-pearl.jpg",
+      "description": "The rooms at Hotel Sea Pearl come with air conditioning, a flat-screen TV with cable channels, and a private bathroom. Some rooms offer sea views, and there is free Wi-Fi throughout the property."
+    },
+    {
+      "id": 2,
+      "destination_id": 1,
+      "name": "Sayeman Beach Resort",
+      "rating": 4.3,
+      "price": 120,
+      "image_url": "https://example.com/sayeman-beach-resort.jpg",
+      "description": "The rooms at Sayeman Beach Resort feature air conditioning, a flat-screen TV with satellite channels, and a private bathroom with a shower. Some rooms offer sea views, and there is free Wi-Fi throughout the property."
+    },
+    {
+      "id": 3,
+      "destination_id": 1,
+      "name": "Hotel Sea Crown",
+      "rating": 4.0,
+      "price": 80,
+      "image_url": "https://example.com/hotel-sea-crown.jpg",
+      "description": "The rooms at Hotel Sea Crown are equipped with air conditioning, a flat-screen TV with cable channels, and a private bathroom. Some rooms offer sea views, and there is free Wi-Fi throughout the property."
+    },
+    {
+      "id": 4,
+      "destination_id": 2,
+      "name": "Sundarbans Royal Bengal Resort",
+      "rating": 4.6,
+      "price": 150,
+      "image_url": "https://example.com/sundarbans-royal-bengal-resort.jpg",
+      "description": "The rooms at Sundarbans Royal Bengal Resort feature air conditioning, a flat-screen TV with satellite channels, and a private bathroom with a shower. Some rooms offer garden views, and there is free Wi-Fi throughout the property."
+    },
+    {
+      "id": 5,
+      "destination_id": 2,
+      "name": "Mangrove Eco Resort",
+      "rating": 4.2,
+      "price": 120,
+      "image_url": "https://example.com/mangrove-eco-resort.jpg",
+      "description": "The rooms at Mangrove Eco Resort come with air conditioning, a flat-screen TV with satellite channels, and a private bathroom with a shower. Some rooms offer river views, and there is free Wi-Fi throughout the property."
+    },
+    {
+      "id": 6,
+      "destination_id": 2,
+      "name": "Sundarban Tiger Camp",
+      "rating": 4.0,
+      "price": 100,
+      "image_url": "https://example.com/sundarban-tiger-camp.jpg",
+      "description": "The rooms at Sundarban Tiger Camp feature air conditioning, a flat-screen TV with satellite channels, and a private bathroom with a shower. Some rooms offer garden views, and there is free Wi-Fi throughout the property."
+    },
+    {
+      "id": 7,
+      "destination_id": 3,
+      "name": "Green Hill Guest House",
+      "rating": 4.2,
+      "price": 50,
+      "image_url": "https://example.com/green-hill",
+      "description": "The rooms at Sundarban Tiger Camp feature air conditioning, a flat-screen TV with satellite channels, and a private bathroom with a shower. Some rooms offer garden views, and there is free Wi-Fi throughout the property."
+    }
+  ]
+}

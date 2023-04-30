@@ -1,0 +1,64 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Cox's Bazar",
+      "description": "Famous for its long sandy beach, the world's longest natural beach.",
+      "image_url": "https://example.com/coxs-bazar.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sundarbans",
+      "description": "The world's largest mangrove forest and home to the Royal Bengal Tiger.",
+      "image_url": "https://example.com/sundarbans.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Srimangal",
+      "description": "Known as the tea capital of Bangladesh, famous for its tea plantations and scenic landscapes.",
+      "image_url": "https://example.com/srimangal.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dhaka",
+      "description": "The capital city of Bangladesh, famous for its historical sites, museums, and vibrant culture.",
+      "image_url": "https://example.com/dhaka.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sylhet",
+      "description": "Famous for its natural beauty, tea gardens, and the shrine of the famous Sufi saint Hazrat Shah Jalal.",
+      "image_url": "https://example.com/sylhet.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chittagong",
+      "description": "The second-largest city in Bangladesh, known for its beaches, hills, and ship-breaking yards.",
+      "image_url": "https://example.com/chittagong.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kuakata",
+      "description": "A popular beach town known for its panoramic sea views and beautiful sunsets.",
+      "image_url": "https://example.com/kuakata.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Rangamati",
+      "description": "A hill district in the southeast of Bangladesh, famous for its scenic beauty and diverse tribal cultures.",
+      "image_url": "https://example.com/rangamati.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Paharpur",
+      "description": "A UNESCO World Heritage site and the ruins of an ancient Buddhist monastery.",
+      "image_url": "https://example.com/paharpur.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Bagerhat",
+      "description": "A historic town known for its mosques, including the UNESCO-listed Sixty Dome Mosque.",
+      "image_url": "https://example.com/bagerhat.jpg"
+    }
+  ]
+}
